@@ -1,6 +1,7 @@
 ## BREW LIST
 # brew list --installed-on-request
 # awscli bat fd fzf lazygit neovim node ripgrep rust starship tree vim
+# casks: ghostty visual-studio-code
 
 # list files with details
 alias ll="ls -larht"
@@ -115,7 +116,9 @@ bindkey "^@" fzf-file-widget
 # load fzf keybindings and completions
 eval "$(fzf --zsh)"
 
+# git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+# git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 eval "$(starship init zsh)"
