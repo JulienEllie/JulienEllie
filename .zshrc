@@ -1,3 +1,6 @@
+## BREW LIST
+# brew list --installed-on-request
+# awscli bat fd fzf lazygit neovim node ripgrep rust starship tree vim
 
 # list files with details
 alias ll="ls -larht"
