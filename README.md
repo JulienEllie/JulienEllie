@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulienEllie
-I am curently a Senior Principal working for AWS.
+I just quit my job as a Senior Principal working for AWS.
 
 <!---
 JulienEllie/JulienEllie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
