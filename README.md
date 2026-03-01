@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JulienEllie
-I just quit my job as a Senior Principal working for AWS.
+I am a Technical Fellow working at Walmart Global Tech.
+Prior to this I was a Senior Principal at Amazon AWS (15 years) and Microsoft (10 years).
 
 <!---
 JulienEllie/JulienEllie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
